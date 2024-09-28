@@ -22,6 +22,8 @@
 # production system. The user assumes full responsibility for 
 # any issues that may arise from using this script.
 # ========================================================
+
+# based on https://discourse.ubuntu.com/t/scaling-down-the-cluster/38982
 # Function to clean up each disk listed by microceph
 clean_microceph_disks() {
     echo "Listing microceph disks..."
