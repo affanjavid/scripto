@@ -1,5 +1,27 @@
 #!/bin/bash
-
+#Affan Javid .
+# ========================================================
+# WARNING: USE THIS SCRIPT AT YOUR OWN RISK
+#
+# This script is provided "as is" without any warranty 
+# of any kind, either express or implied, including but 
+# not limited to the implied warranties of merchantability, 
+# fitness for a particular purpose, or non-infringement. 
+# In no event shall the author or contributors be liable 
+# for any direct, indirect, incidental, special, exemplary, 
+# or consequential damages (including, but not limited to, 
+# procurement of substitute goods or services; loss of use, 
+# data, or profits; or business interruption) however caused 
+# and on any theory of liability, whether in contract, strict 
+# liability, or tort (including negligence or otherwise) 
+# arising in any way out of the use of this script, even if 
+# advised of the possibility of such damage.
+#
+# It is highly recommended that you review and test this 
+# script in a controlled environment before using it on any 
+# production system. The user assumes full responsibility for 
+# any issues that may arise from using this script.
+# ========================================================
 # Function to clean up each disk listed by microceph
 clean_microceph_disks() {
     echo "Listing microceph disks..."
